@@ -1,0 +1,79 @@
+{
+    "livros": [
+        {
+            "nome": "Novo Testamento",
+            "novo_testamento": [
+            {
+                "referencia": "Mateus 5:14-16",
+                "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
+                "escritura": "14 Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte, 15 Nem se acende a candeia e se coloca debaixo do alqueire, mas no velador, e dá luz a todos que estão na casa. 16 Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus."
+            },
+            {
+                "referencia": "Mateus 11:28-30",
+                "palavra_chave": "Vinde à mim, todos os que estais cansados e oprimidos, e eu vos aliviarei",
+                "escritura": "28 Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. 29 Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para a vossa alma. 30 Porque o meu jugo é suave, e o meu fardo é leve"
+            },
+            {
+                "referencia": "Mateus 16:15-19",
+                "palavra_chave": "Jesus disse: 'Eu te darei as chaves do reino'",
+                "escritura": "15 Disse-lhes ele: E vós, quem dizeis vós que eu sou? 16 E Simão Pedro, respondendo, disse: Tu és o Cristo, o Filho do Deus vivo. 17 E Jesus, respondendo, disse-lhe: Bem-aventurado és tu, Simão Barjonas, porque to não revelou a carne e o sangue, mas meu Pai, que está nos céus. 18 E também eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja, e as portas do inferno não prevalecerão contra ela. 19 E eu te darei as chaves do reino dos céus; e tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus."
+            },
+            {
+                "referencia": "Mateus 22:36-39",
+                "palavra_chave": "Amarás o Senhor teu Deus. (...) Amarás ao teu próximo como a ti mesmo",
+                "escritura": "36 Mestre, qual é o grande mandamento na lei? 37 E Jesus disse-lhe: Amarás ao Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. 38 Este é o primeiro e grande mandamento. 39 E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo."
+            },
+            {
+                "referencia": "Lucas 2:10-12",
+                "palavra_chave": "Pois hoje, na cidade de Davi, vos nasceu o Salvador, que é Cristo, o Senhor",
+                "escritura": "10 E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo. 11 Pois hoje, na cidade de Davi, vos nasceu o Salvador, que é Cristo, o Senhor. 12 E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura."
+            },
+            {
+                "referencia": "Lucas 22:19-20",
+                "palavra_chave": "Jesus Cristo ordenou que partilhássemos do sacramento dizendo: 'fazei isto em memória de mim'",
+                "escritura": "19 E tomando o pão, e havendo dado graças, partiu-o, e deu-lho, dizendo: Isto é o meu corpo, que por vós é dado; fazei isto em memória de mim. 20 Semelhantemente tomou o cálice, depois da ceia, dizendo: Este cálice é o novo testamento no meu sangue, que é derramado por vós."
+            },
+            {
+                "referencia": "Lucas 24:36-39",
+                "palavra_chave": "Pois um espírito não tem carne nem ossos, como vedes que eu tenho",
+                "escritura": "36 E falando eles dessas coisas, o próprio Jesus se apresentou no meio deles, e disse-lhes: Paz seja convosco. 37 E eles, espantados e atemorizados, pensavam que viam algum espírito. 38 E ele lhes disse: Por que estais perturbados, e por que sobem tais pensamentos ao vosso coração? 39 Vede as minhas mãos e os meus pés, que sou eu mesmo; apalpai-me e vede, pois um espírito não tem carne nem ossos, como vedes que eu tenho. 40 E dizendo isso, mostrou-lhes as mãos e os pés."
+            },
+            {
+                "referencia": "João 3:5",
+                "palavra_chave": "Aquele que não nascer da água e do Espírito, não pode entrar no reino de Deus",
+                "escritura": "5 Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no reino de Deus,"
+            },
+            {
+                "referencia": "João 3:16",
+                "palavra_chave": "Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito",
+                "escritura": "16 Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna"
+            },
+            {
+                "referencia": "João 7:17",
+                "palavra_chave": "Se alguém quiser fazer a vontade dele, conhecerá a respeito da doutrina",
+                "escritura": "17 Se alguém quiser fazer a vontade dele, conhecerá a respeito da doutrina, se ela é de Deus, ou se eu falo de mim mesmo"
+            },
+            {
+                "referencia": "João 17:3",
+                "palavra_chave": "A vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo",
+                "escritura": "3 E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste."
+            }
+            ]
+        },
+        {
+            "nome": "Velho Testamento",
+            "velho_testamento": [
+            {
+                "referencia": "Mateus 5:14-16",
+                "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
+                "escritura": "14 Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte, 15 Nem se acende a candeia e se coloca debaixo do alqueire, mas no velador, e dá luz a todos que estão na casa. 16 Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus."
+            },
+            {
+                "referencia": "dqjjnMateus 5:14-16",
+                "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
+                "escritura": "14 Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte, 15 Nem se acende a candeia e se coloca debaixo do alqueire, mas no velador, e dá luz a todos que estão na casa. 16 Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus."
+            }
+            ]
+        }
+    ]
+}  
