@@ -57,6 +57,71 @@
                 "referencia": "João 17:3",
                 "palavra_chave": "A vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo",
                 "escritura": "3 E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste."
+            },
+            {
+                "referencia": "1 Coríntios 6:19-20",
+                "palavra_chave": "Vosso corpo é o templo do Espírito Santo",
+                "escritura": "19 Ou não sabeis que o vosso corpo é o templo do Espírito Santo, que habita em vós, o qual tendes da parte de Deus, e que não sois de vós mesmos? 20 Porque fostes comprados por um preço; glorificai, pois, a Deus no vosso corpo, e no vosso espírito, os quais pertencem a Deus."
+            },
+            {
+                "referencia": "1 Coríntios 11:11",
+                "palavra_chave": "Nem o homem é sem a mulher, nem a mulher, sem o homem, no Senhor",
+                "escritura": "11 Todavia, nem o homem é sem a mulher, nem a mulher, sem o homem, no Senhor."
+            },
+            {
+                "referencia": "1 Coríntios 15:20-22",
+                "palavra_chave": "Assim como todos morrem em Adão, assim também em Cristo todos serão vivificados",
+                "escritura": "20 Mas agora Cristo ressuscitou dos mortos, e foi feito as primícias dos que dormem. 21 Porque, assim como a morte veio por um homem, também a ressurreição dos mortos veio por um homem. 22 Porque, assim como todos morrem em Adão, assim também em Cristo todos serão vivificados."
+            },
+            {
+                "referencia": "1 Coríntios 15:40-42",
+                "palavra_chave": "Na ressurreição, há três graus de glória",
+                "escritura": "40 E há corpos celestes e corpos terrestres, mas uma é a glória dos celestes, e outra a dos terrestres. 41 Uma é a glória do sol, e outra a glória da lua, e outra a glória das estrelas; porque uma estrela difere em glória de outra estrela. 42 Assim também a ressurreição dos mortos. Semeia-se o corpo em corrupção; ressuscitará em incorrupção."
+            },
+            {
+                "referencia": "Efésios 1:10",
+                "palavra_chave": "Na dispensação da plenitude dos tempos, tornar a congregar em Cristo todas as coisas",
+                "escritura": "10 Para, na dispensação da plenitude dos tempos, tornar a congregar em Cristo todas as coisas tanto as que estão nos céus como as que estão na terra"
+            },
+            {
+                "referencia": "Efésios 2:19-20",
+                "palavra_chave": "A Igreja é '[edificada] sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina'",
+                "escritura": "19 Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos e da família de Deus; 20 Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina;"
+            },
+            {
+                "referencia": "2 Tessalonicenses 2:1-3",
+                "palavra_chave": "O dia de Cristo (...) não virá sem que antes venha a apostasia",
+                "escritura": "1 Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo, e pela nossa reunião com ele, 2 Que não vos movais facilmente do vosso entendimento, e não vos perturbeis, nem por espírito, nem por palavra, nem por epístola, como escrita por nós, como se o dia de Cristo estivesse já perto. 3 Ninguém de maneira alguma vos engane; porque aquele dia não virá sem que antes venha a apostasia, e se manifeste o homem do pecado, o filho da perdição;"
+            },
+            {
+                "referencia": "2 Timóteo 3:15-17",
+                "palavra_chave": "As sagradas escrituras (...) podem fazer-te sábio para a salvação",
+                "escritura": "15 E que desde a tua meninice sabes as sagradas escrituras, as quais podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus. 16 Toda escritura divinamente inspirada é proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça; 17 Para que o homem de Deus seja perfeito e perfeitamente instruído para toda boa obra."
+            },
+            {
+                "referencia": "Hebreus 12:9",
+                "palavra_chave": "O Pai Celestial é o 'Pai dos espíritos'",
+                "escritura": "9 Também, na verdade, tivemos nossos pais segundo a carne, para nos corrigir, e os reverenciamos; não nos sujeitaremos muito mais ao Pai dos espíritos, para vivermos?"
+            },
+            {
+                "referencia": "Tiago 1:5-6",
+                "palavra_chave": "Se algum de vós tem falta de sabedoria, peça-a a Deus",
+                "escritura": "5 E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, sem repreensão, e ser-lhe-á dada. 6 Porém peça-a com fé, não duvidando; porque o que duvida é semelhante à onda do mar, que é levada pelo vento, e lançada de uma para outra parte."
+            },
+            {
+                "referencia": "Tiago 2:17-18",
+                "palavra_chave": "A fé, se não tiver as obras, está morta",
+                "escritura": "17 Assim também a fé, se não tiver as obras, está morta em si mesma."
+            },
+            {
+                "referencia": "I Pedro 4:6",
+                "palavra_chave": "Foi o evangelho pregado também aos mortos",
+                "escritura": "6 Porque para isso foi o evangelho pregado também aos mortos, para que, na verdade, fossem julgados segundo os homens na carne, porém vivessem segundo Deus em espírito;"
+            },
+            {
+                "referencia": "Apocalipse 20:12",
+                "palavra_chave": "Os mortos foram julgados (...) segundo as suas obras",
+                "escritura": "12 E vi os mortos, grandes e pequenos, que estavam diante de Deus; e abriram-se os livros; e abriu-se outro livro, que é o da vida; e os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras."
             }
             ]
         },
@@ -64,14 +129,44 @@
             "nome": "Velho Testamento",
             "velho_testamento": [
             {
-                "referencia": "Mateus 5:14-16",
-                "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
-                "escritura": "14 Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte, 15 Nem se acende a candeia e se coloca debaixo do alqueire, mas no velador, e dá luz a todos que estão na casa. 16 Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus."
+                "referencia": "Moisés 1:39",
+                "palavra_chave": "Esta é minha obra e minha glória: Levar a efeito a imortalidade e vida eterna do homem",
+                "escritura": "39 Pois eis que esta é minha obra e minha glória: Levar a efeito a imortalidade e vida eterna do homem."
             },
             {
-                "referencia": "dqjjnMateus 5:14-16",
-                "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
-                "escritura": "14 Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte, 15 Nem se acende a candeia e se coloca debaixo do alqueire, mas no velador, e dá luz a todos que estão na casa. 16 Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus."
+                "referencia": "Moisés 7:18",
+                "palavra_chave": "O Senhor chamou seu povo Sião, porque eram unos de coração",
+                "escritura": "18 E o Senhor chamou seu povo Sião, porque eram unos de coração e vontade e viviam em retidão; e não havia pobres entre eles."
+            }
+            ]
+        },
+        {
+            "nome": "Livro de Mórmon",
+            "velho_testamento": [
+            {
+                "referencia": "1 Néfi 3:7",
+                "palavra_chave": "Eu irei e cumprirei as ordens do Senhor",
+                "escritura": "7 E aconteceu que eu, Néfi, disse a meu pai: Eu irei e cumprirei as ordens do Senhor, porque sei que o Senhor nunca dá ordens aos filhos dos homens sem antes preparar um caminho pelo qual suas ordens possam ser cumpridas."
+            },
+            {
+                "referencia": "2 Néfi 2:25",
+                "palavra_chave": "Adão caiu para que os homens existissem; e os homens existem para que tenham alegria",
+                "escritura": "25 Adão caiu para que os homens existissem; e os homens existem para que tenham alegria."
+            }
+            ]
+        },
+        {
+            "nome": "Doutrina e Convênios",
+            "velho_testamento": [
+            {
+                "referencia": "Joseph Smith — História 1:15-20",
+                "palavra_chave": "Joseph Smith 'viu dois personagens cujo resplendor e glória desafiam qualquer descrição'",
+                "escritura": "15 Depois de me haver retirado para o lugar que previamente escolhera, tendo olhado ao redor e encontrando-me só, ajoelhei-me e comecei a oferecer a Deus os desejos de meu coração. Apenas iniciara, imediatamente se apoderou de mim uma força que me dominou por completo; e tão assombrosa foi sua influência que se me travou a língua, de modo que eu não podia falar. Uma densa escuridão formou-se ao meu redor e pareceu-me, por um momento, que eu estava condenado a uma destruição súbita. 16 Mas usando todas as forças para clamar a Deus que me livrasse do poder desse inimigo que me subjugara, no momento exato em que estava prestes a sucumbir ao desespero e abandonar-me à destruição — não a uma ruína imaginária, mas ao poder de algum ser real do mundo invisível, que possuía uma força tão assombrosa como eu jamais sentira em qualquer ser — exatamente nesse momento de grande alarme, vi um pilar de luz acima de minha cabeça, mais brilhante que o sol, que descia gradualmente sobre mim. 17 Assim que apareceu, senti-me livre do inimigo que me sujeitava. Quando a luz pousou sobre mim, vi dois Personagens cujo esplendor e glória desafiam qualquer descrição, pairando no ar, acima de mim. Um deles falou-me, chamando-me pelo nome, e disse, apontando para o outro: Este é Meu Filho Amado. Ouve-O! 18 Meu objetivo ao dirigir-me ao Senhor era saber qual de todas as seitas estava certa, a fim de saber a qual me unir. Portanto, tão logo me controlei o suficiente para poder falar, perguntei aos Personagens que estavam na luz acima de mim qual de todas as seitas estava certa (pois até aquele momento jamais me ocorrera que todas estivessem erradas) e a qual me unir. 19 Foi-me respondido que não me unisse a qualquer delas, pois estavam todas erradas; e o Personagem que se dirigia a mim disse que todos os seus credos eram uma abominação a sua vista; que aqueles religiosos eram todos corruptos; que “eles se aproximam de mim com os lábios, mas seu coração está longe de mim; ensinam como doutrina os mandamentos de homens, tendo aparência de religiosidade, mas negam o seu poder.” 20 Novamente me proibiu de unir-me a qualquer delas; e muitas outras coisas disse-me, as quais não posso, no momento, escrever. Quando tornei a voltar a mim, estava deitado de costas, olhando para o céu. Quando a luz se retirou, eu estava sem forças; mas tendo logo me recuperado em parte, fui para casa. Ao apoiar-me na lareira, minha mãe perguntou-me o que se passava. Respondi: “Não se preocupe, tudo está bem — eu estou bem.” Então disse a ela: “Aprendi por mim mesmo que o presbiterianismo não é verdadeiro.” Parece que o adversário sabia, nos primeiros anos de minha vida, que eu estava destinado a ser um perturbador e um importunador de seu reino; senão, por que os poderes das trevas se uniriam contra mim? Por que a oposição e a perseguição que se levantaram contra mim, quase em minha infância?"
+            },
+            {
+                "referencia": "D&C 1:30",
+                "palavra_chave": "A única igreja verdadeira e viva",
+                "escritura": "30 E também para que aqueles a quem foram dados estes mandamentos tivessem poder para estabelecer o alicerce desta igreja e tirá-la da obscuridade e das trevas, a única igreja verdadeira e viva na face de toda a Terra, com a qual eu, o Senhor, me deleito, falando à igreja coletiva e não individualmente"
             }
             ]
         }
