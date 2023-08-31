@@ -2,7 +2,7 @@
     "livros": [
         {
             "nome": "Novo Testamento",
-            "novo_testamento": [
+            "dominio_doutrinario": [
             {
                 "referencia": "Mateus 5:14-16",
                 "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
@@ -127,7 +127,7 @@
         },
         {
             "nome": "Velho Testamento",
-            "velho_testamento": [
+            "dominio_doutrinario": [
             {
                 "referencia": "Moisés 1:39",
                 "palavra_chave": "Esta é minha obra e minha glória: Levar a efeito a imortalidade e vida eterna do homem",
@@ -142,7 +142,7 @@
         },
         {
             "nome": "Livro de Mórmon",
-            "velho_testamento": [
+            "dominio_doutrinario": [
             {
                 "referencia": "1 Néfi 3:7",
                 "palavra_chave": "Eu irei e cumprirei as ordens do Senhor",
@@ -157,7 +157,7 @@
         },
         {
             "nome": "Doutrina e Convênios",
-            "velho_testamento": [
+            "dominio_doutrinario": [
             {
                 "referencia": "Joseph Smith — História 1:15-20",
                 "palavra_chave": "Joseph Smith 'viu dois personagens cujo resplendor e glória desafiam qualquer descrição'",
