@@ -3,172 +3,497 @@
         {
             "nome": "Novo Testamento",
             "dominio_doutrinario": [
-            {
-                "referencia": "Mateus 5:14-16",
-                "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
-                "escritura": "14 Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte, 15 Nem se acende a candeia e se coloca debaixo do alqueire, mas no velador, e dá luz a todos que estão na casa. 16 Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus."
-            },
-            {
-                "referencia": "Mateus 11:28-30",
-                "palavra_chave": "Vinde à mim, todos os que estais cansados e oprimidos, e eu vos aliviarei",
-                "escritura": "28 Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. 29 Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para a vossa alma. 30 Porque o meu jugo é suave, e o meu fardo é leve"
-            },
-            {
-                "referencia": "Mateus 16:15-19",
-                "palavra_chave": "Jesus disse: 'Eu te darei as chaves do reino'",
-                "escritura": "15 Disse-lhes ele: E vós, quem dizeis vós que eu sou? 16 E Simão Pedro, respondendo, disse: Tu és o Cristo, o Filho do Deus vivo. 17 E Jesus, respondendo, disse-lhe: Bem-aventurado és tu, Simão Barjonas, porque to não revelou a carne e o sangue, mas meu Pai, que está nos céus. 18 E também eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja, e as portas do inferno não prevalecerão contra ela. 19 E eu te darei as chaves do reino dos céus; e tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus."
-            },
-            {
-                "referencia": "Mateus 22:36-39",
-                "palavra_chave": "Amarás o Senhor teu Deus. (...) Amarás ao teu próximo como a ti mesmo",
-                "escritura": "36 Mestre, qual é o grande mandamento na lei? 37 E Jesus disse-lhe: Amarás ao Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. 38 Este é o primeiro e grande mandamento. 39 E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo."
-            },
-            {
-                "referencia": "Lucas 2:10-12",
-                "palavra_chave": "Pois hoje, na cidade de Davi, vos nasceu o Salvador, que é Cristo, o Senhor",
-                "escritura": "10 E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo. 11 Pois hoje, na cidade de Davi, vos nasceu o Salvador, que é Cristo, o Senhor. 12 E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura."
-            },
-            {
-                "referencia": "Lucas 22:19-20",
-                "palavra_chave": "Jesus Cristo ordenou que partilhássemos do sacramento dizendo: 'fazei isto em memória de mim'",
-                "escritura": "19 E tomando o pão, e havendo dado graças, partiu-o, e deu-lho, dizendo: Isto é o meu corpo, que por vós é dado; fazei isto em memória de mim. 20 Semelhantemente tomou o cálice, depois da ceia, dizendo: Este cálice é o novo testamento no meu sangue, que é derramado por vós."
-            },
-            {
-                "referencia": "Lucas 24:36-39",
-                "palavra_chave": "Pois um espírito não tem carne nem ossos, como vedes que eu tenho",
-                "escritura": "36 E falando eles dessas coisas, o próprio Jesus se apresentou no meio deles, e disse-lhes: Paz seja convosco. 37 E eles, espantados e atemorizados, pensavam que viam algum espírito. 38 E ele lhes disse: Por que estais perturbados, e por que sobem tais pensamentos ao vosso coração? 39 Vede as minhas mãos e os meus pés, que sou eu mesmo; apalpai-me e vede, pois um espírito não tem carne nem ossos, como vedes que eu tenho. 40 E dizendo isso, mostrou-lhes as mãos e os pés."
-            },
-            {
-                "referencia": "João 3:5",
-                "palavra_chave": "Aquele que não nascer da água e do Espírito, não pode entrar no reino de Deus",
-                "escritura": "5 Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no reino de Deus,"
-            },
-            {
-                "referencia": "João 3:16",
-                "palavra_chave": "Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito",
-                "escritura": "16 Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna"
-            },
-            {
-                "referencia": "João 7:17",
-                "palavra_chave": "Se alguém quiser fazer a vontade dele, conhecerá a respeito da doutrina",
-                "escritura": "17 Se alguém quiser fazer a vontade dele, conhecerá a respeito da doutrina, se ela é de Deus, ou se eu falo de mim mesmo"
-            },
-            {
-                "referencia": "João 17:3",
-                "palavra_chave": "A vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo",
-                "escritura": "3 E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste."
-            },
-            {
-                "referencia": "1 Coríntios 6:19-20",
-                "palavra_chave": "Vosso corpo é o templo do Espírito Santo",
-                "escritura": "19 Ou não sabeis que o vosso corpo é o templo do Espírito Santo, que habita em vós, o qual tendes da parte de Deus, e que não sois de vós mesmos? 20 Porque fostes comprados por um preço; glorificai, pois, a Deus no vosso corpo, e no vosso espírito, os quais pertencem a Deus."
-            },
-            {
-                "referencia": "1 Coríntios 11:11",
-                "palavra_chave": "Nem o homem é sem a mulher, nem a mulher, sem o homem, no Senhor",
-                "escritura": "11 Todavia, nem o homem é sem a mulher, nem a mulher, sem o homem, no Senhor."
-            },
-            {
-                "referencia": "1 Coríntios 15:20-22",
-                "palavra_chave": "Assim como todos morrem em Adão, assim também em Cristo todos serão vivificados",
-                "escritura": "20 Mas agora Cristo ressuscitou dos mortos, e foi feito as primícias dos que dormem. 21 Porque, assim como a morte veio por um homem, também a ressurreição dos mortos veio por um homem. 22 Porque, assim como todos morrem em Adão, assim também em Cristo todos serão vivificados."
-            },
-            {
-                "referencia": "1 Coríntios 15:40-42",
-                "palavra_chave": "Na ressurreição, há três graus de glória",
-                "escritura": "40 E há corpos celestes e corpos terrestres, mas uma é a glória dos celestes, e outra a dos terrestres. 41 Uma é a glória do sol, e outra a glória da lua, e outra a glória das estrelas; porque uma estrela difere em glória de outra estrela. 42 Assim também a ressurreição dos mortos. Semeia-se o corpo em corrupção; ressuscitará em incorrupção."
-            },
-            {
-                "referencia": "Efésios 1:10",
-                "palavra_chave": "Na dispensação da plenitude dos tempos, tornar a congregar em Cristo todas as coisas",
-                "escritura": "10 Para, na dispensação da plenitude dos tempos, tornar a congregar em Cristo todas as coisas tanto as que estão nos céus como as que estão na terra"
-            },
-            {
-                "referencia": "Efésios 2:19-20",
-                "palavra_chave": "A Igreja é '[edificada] sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina'",
-                "escritura": "19 Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos e da família de Deus; 20 Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina;"
-            },
-            {
-                "referencia": "2 Tessalonicenses 2:1-3",
-                "palavra_chave": "O dia de Cristo (...) não virá sem que antes venha a apostasia",
-                "escritura": "1 Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo, e pela nossa reunião com ele, 2 Que não vos movais facilmente do vosso entendimento, e não vos perturbeis, nem por espírito, nem por palavra, nem por epístola, como escrita por nós, como se o dia de Cristo estivesse já perto. 3 Ninguém de maneira alguma vos engane; porque aquele dia não virá sem que antes venha a apostasia, e se manifeste o homem do pecado, o filho da perdição;"
-            },
-            {
-                "referencia": "2 Timóteo 3:15-17",
-                "palavra_chave": "As sagradas escrituras (...) podem fazer-te sábio para a salvação",
-                "escritura": "15 E que desde a tua meninice sabes as sagradas escrituras, as quais podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus. 16 Toda escritura divinamente inspirada é proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça; 17 Para que o homem de Deus seja perfeito e perfeitamente instruído para toda boa obra."
-            },
-            {
-                "referencia": "Hebreus 12:9",
-                "palavra_chave": "O Pai Celestial é o 'Pai dos espíritos'",
-                "escritura": "9 Também, na verdade, tivemos nossos pais segundo a carne, para nos corrigir, e os reverenciamos; não nos sujeitaremos muito mais ao Pai dos espíritos, para vivermos?"
-            },
-            {
-                "referencia": "Tiago 1:5-6",
-                "palavra_chave": "Se algum de vós tem falta de sabedoria, peça-a a Deus",
-                "escritura": "5 E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, sem repreensão, e ser-lhe-á dada. 6 Porém peça-a com fé, não duvidando; porque o que duvida é semelhante à onda do mar, que é levada pelo vento, e lançada de uma para outra parte."
-            },
-            {
-                "referencia": "Tiago 2:17-18",
-                "palavra_chave": "A fé, se não tiver as obras, está morta",
-                "escritura": "17 Assim também a fé, se não tiver as obras, está morta em si mesma."
-            },
-            {
-                "referencia": "I Pedro 4:6",
-                "palavra_chave": "Foi o evangelho pregado também aos mortos",
-                "escritura": "6 Porque para isso foi o evangelho pregado também aos mortos, para que, na verdade, fossem julgados segundo os homens na carne, porém vivessem segundo Deus em espírito;"
-            },
-            {
-                "referencia": "Apocalipse 20:12",
-                "palavra_chave": "Os mortos foram julgados (...) segundo as suas obras",
-                "escritura": "12 E vi os mortos, grandes e pequenos, que estavam diante de Deus; e abriram-se os livros; e abriu-se outro livro, que é o da vida; e os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras."
-            }
+                {
+                    "referencia": "Mateus 5:14-16",
+                    "palavra_chave": "Assim resplandeça a vossa luz diante dos homens.",
+                    "escritura": "14 Vós sois a luz do mundo; não se pode esconder uma cidade edificada sobre um monte, 15 Nem se acende a candeia e se coloca debaixo do alqueire, mas no velador, e dá luz a todos que estão na casa. 16 Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem a vosso Pai, que está nos céus."
+                },
+                {
+                    "referencia": "Mateus 11:28-30",
+                    "palavra_chave": "Vinde à mim, todos os que estais cansados e oprimidos, e eu vos aliviarei",
+                    "escritura": "28 Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. 29 Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para a vossa alma. 30 Porque o meu jugo é suave, e o meu fardo é leve"
+                },
+                {
+                    "referencia": "Mateus 16:15-19",
+                    "palavra_chave": "Jesus disse: 'Eu te darei as chaves do reino'",
+                    "escritura": "15 Disse-lhes ele: E vós, quem dizeis vós que eu sou? 16 E Simão Pedro, respondendo, disse: Tu és o Cristo, o Filho do Deus vivo. 17 E Jesus, respondendo, disse-lhe: Bem-aventurado és tu, Simão Barjonas, porque to não revelou a carne e o sangue, mas meu Pai, que está nos céus. 18 E também eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja, e as portas do inferno não prevalecerão contra ela. 19 E eu te darei as chaves do reino dos céus; e tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus."
+                },
+                {
+                    "referencia": "Mateus 22:36-39",
+                    "palavra_chave": "Amarás o Senhor teu Deus. (...) Amarás ao teu próximo como a ti mesmo",
+                    "escritura": "36 Mestre, qual é o grande mandamento na lei? 37 E Jesus disse-lhe: Amarás ao Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento. 38 Este é o primeiro e grande mandamento. 39 E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo."
+                },
+                {
+                    "referencia": "Lucas 2:10-12",
+                    "palavra_chave": "Pois hoje, na cidade de Davi, vos nasceu o Salvador, que é Cristo, o Senhor",
+                    "escritura": "10 E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo. 11 Pois hoje, na cidade de Davi, vos nasceu o Salvador, que é Cristo, o Senhor. 12 E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura."
+                },
+                {
+                    "referencia": "Lucas 22:19-20",
+                    "palavra_chave": "Jesus Cristo ordenou que partilhássemos do sacramento dizendo: 'fazei isto em memória de mim'",
+                    "escritura": "19 E tomando o pão, e havendo dado graças, partiu-o, e deu-lho, dizendo: Isto é o meu corpo, que por vós é dado; fazei isto em memória de mim. 20 Semelhantemente tomou o cálice, depois da ceia, dizendo: Este cálice é o novo testamento no meu sangue, que é derramado por vós."
+                },
+                {
+                    "referencia": "Lucas 24:36-39",
+                    "palavra_chave": "Pois um espírito não tem carne nem ossos, como vedes que eu tenho",
+                    "escritura": "36 E falando eles dessas coisas, o próprio Jesus se apresentou no meio deles, e disse-lhes: Paz seja convosco. 37 E eles, espantados e atemorizados, pensavam que viam algum espírito. 38 E ele lhes disse: Por que estais perturbados, e por que sobem tais pensamentos ao vosso coração? 39 Vede as minhas mãos e os meus pés, que sou eu mesmo; apalpai-me e vede, pois um espírito não tem carne nem ossos, como vedes que eu tenho. 40 E dizendo isso, mostrou-lhes as mãos e os pés."
+                },
+                {
+                    "referencia": "João 3:5",
+                    "palavra_chave": "Aquele que não nascer da água e do Espírito, não pode entrar no reino de Deus",
+                    "escritura": "5 Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no reino de Deus,"
+                },
+                {
+                    "referencia": "João 3:16",
+                    "palavra_chave": "Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito",
+                    "escritura": "16 Porque Deus amou o mundo de tal maneira, que deu o seu Filho Unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna"
+                },
+                {
+                    "referencia": "João 7:17",
+                    "palavra_chave": "Se alguém quiser fazer a vontade dele, conhecerá a respeito da doutrina",
+                    "escritura": "17 Se alguém quiser fazer a vontade dele, conhecerá a respeito da doutrina, se ela é de Deus, ou se eu falo de mim mesmo"
+                },
+                {
+                    "referencia": "João 17:3",
+                    "palavra_chave": "A vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo",
+                    "escritura": "3 E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste."
+                },
+                {
+                    "referencia": "1 Coríntios 6:19-20",
+                    "palavra_chave": "Vosso corpo é o templo do Espírito Santo",
+                    "escritura": "19 Ou não sabeis que o vosso corpo é o templo do Espírito Santo, que habita em vós, o qual tendes da parte de Deus, e que não sois de vós mesmos? 20 Porque fostes comprados por um preço; glorificai, pois, a Deus no vosso corpo, e no vosso espírito, os quais pertencem a Deus."
+                },
+                {
+                    "referencia": "1 Coríntios 11:11",
+                    "palavra_chave": "Nem o homem é sem a mulher, nem a mulher, sem o homem, no Senhor",
+                    "escritura": "11 Todavia, nem o homem é sem a mulher, nem a mulher, sem o homem, no Senhor."
+                },
+                {
+                    "referencia": "1 Coríntios 15:20-22",
+                    "palavra_chave": "Assim como todos morrem em Adão, assim também em Cristo todos serão vivificados",
+                    "escritura": "20 Mas agora Cristo ressuscitou dos mortos, e foi feito as primícias dos que dormem. 21 Porque, assim como a morte veio por um homem, também a ressurreição dos mortos veio por um homem. 22 Porque, assim como todos morrem em Adão, assim também em Cristo todos serão vivificados."
+                },
+                {
+                    "referencia": "1 Coríntios 15:40-42",
+                    "palavra_chave": "Na ressurreição, há três graus de glória",
+                    "escritura": "40 E há corpos celestes e corpos terrestres, mas uma é a glória dos celestes, e outra a dos terrestres. 41 Uma é a glória do sol, e outra a glória da lua, e outra a glória das estrelas; porque uma estrela difere em glória de outra estrela. 42 Assim também a ressurreição dos mortos. Semeia-se o corpo em corrupção; ressuscitará em incorrupção."
+                },
+                {
+                    "referencia": "Efésios 1:10",
+                    "palavra_chave": "Na dispensação da plenitude dos tempos, tornar a congregar em Cristo todas as coisas",
+                    "escritura": "10 Para, na dispensação da plenitude dos tempos, tornar a congregar em Cristo todas as coisas tanto as que estão nos céus como as que estão na terra"
+                },
+                {
+                    "referencia": "Efésios 2:19-20",
+                    "palavra_chave": "A Igreja é '[edificada] sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina'",
+                    "escritura": "19 Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos e da família de Deus; 20 Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina;"
+                },
+                {
+                    "referencia": "2 Tessalonicenses 2:1-3",
+                    "palavra_chave": "O dia de Cristo (...) não virá sem que antes venha a apostasia",
+                    "escritura": "1 Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo, e pela nossa reunião com ele, 2 Que não vos movais facilmente do vosso entendimento, e não vos perturbeis, nem por espírito, nem por palavra, nem por epístola, como escrita por nós, como se o dia de Cristo estivesse já perto. 3 Ninguém de maneira alguma vos engane; porque aquele dia não virá sem que antes venha a apostasia, e se manifeste o homem do pecado, o filho da perdição;"
+                },
+                {
+                    "referencia": "2 Timóteo 3:15-17",
+                    "palavra_chave": "As sagradas escrituras (...) podem fazer-te sábio para a salvação",
+                    "escritura": "15 E que desde a tua meninice sabes as sagradas escrituras, as quais podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus. 16 Toda escritura divinamente inspirada é proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça; 17 Para que o homem de Deus seja perfeito e perfeitamente instruído para toda boa obra."
+                },
+                {
+                    "referencia": "Hebreus 12:9",
+                    "palavra_chave": "O Pai Celestial é o 'Pai dos espíritos'",
+                    "escritura": "9 Também, na verdade, tivemos nossos pais segundo a carne, para nos corrigir, e os reverenciamos; não nos sujeitaremos muito mais ao Pai dos espíritos, para vivermos?"
+                },
+                {
+                    "referencia": "Tiago 1:5-6",
+                    "palavra_chave": "Se algum de vós tem falta de sabedoria, peça-a a Deus",
+                    "escritura": "5 E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, sem repreensão, e ser-lhe-á dada. 6 Porém peça-a com fé, não duvidando; porque o que duvida é semelhante à onda do mar, que é levada pelo vento, e lançada de uma para outra parte."
+                },
+                {
+                    "referencia": "Tiago 2:17-18",
+                    "palavra_chave": "A fé, se não tiver as obras, está morta",
+                    "escritura": "17 Assim também a fé, se não tiver as obras, está morta em si mesma."
+                },
+                {
+                    "referencia": "I Pedro 4:6",
+                    "palavra_chave": "Foi o evangelho pregado também aos mortos",
+                    "escritura": "6 Porque para isso foi o evangelho pregado também aos mortos, para que, na verdade, fossem julgados segundo os homens na carne, porém vivessem segundo Deus em espírito;"
+                },
+                {
+                    "referencia": "Apocalipse 20:12",
+                    "palavra_chave": "Os mortos foram julgados (...) segundo as suas obras",
+                    "escritura": "12 E vi os mortos, grandes e pequenos, que estavam diante de Deus; e abriram-se os livros; e abriu-se outro livro, que é o da vida; e os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras."
+                }
             ]
         },
         {
             "nome": "Velho Testamento",
             "dominio_doutrinario": [
-            {
-                "referencia": "Moisés 1:39",
-                "palavra_chave": "Esta é minha obra e minha glória: Levar a efeito a imortalidade e vida eterna do homem",
-                "escritura": "39 Pois eis que esta é minha obra e minha glória: Levar a efeito a imortalidade e vida eterna do homem."
-            },
-            {
-                "referencia": "Moisés 7:18",
-                "palavra_chave": "O Senhor chamou seu povo Sião, porque eram unos de coração",
-                "escritura": "18 E o Senhor chamou seu povo Sião, porque eram unos de coração e vontade e viviam em retidão; e não havia pobres entre eles."
-            }
+                {
+                    "referencia": "Moisés 1:39",
+                    "palavra-chave": "Esta é minha obra e minha glória",
+                    "escritura": "39 Pois eis que esta é minha obra e minha glória: Levar a efeito a imortalidade e vida eterna do homem."
+                },
+                {
+                    "referencia": "Moisés 7:18",
+                    "palavra-chave": "O Senhor chamou seu povo Sião, porque eram unos de coração e vontade.",
+                    "escritura": "18 E o Senhor chamou seu povo Sião, porque eram unos de coração e vontade e viviam em retidão; e não havia pobres entre eles."
+                },
+                {
+                    "referencia": "Abraão 2:9–11",
+                    "palavra-chave": "O Senhor prometeu a Abraão que sua descendência levaria 'este ministério e Sacerdócio a todas as nações.'",
+                    "escritura": "9 E farei de ti uma grande nação, e abençoar-te-ei sobremaneira, e engrandecerei o teu nome entre todas as nações; e serás uma bênção para tua semente depois de ti, para que em suas mãos levem este ministério e Sacerdócio a todas as nações; 10 E abençoá-las-ei por meio de teu nome; pois todos os que receberem este Evangelho serão chamados segundo o teu nome, e contados como tua semente; e levantar-se-ão e abençoar-te-ão como seu pai; 11 E abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; e em ti (isto é, em teu Sacerdócio) e em tua semente (isto é, teu Sacerdócio), pois faço-te a promessa de que este direito continuará em ti, e em tua semente depois de ti (isto quer dizer a semente literal, ou seja, a semente do corpo), serão abençoadas todas as famílias da Terra, sim, com as bênçãos do Evangelho, que são as bênçãos de salvação, sim, de vida eterna."
+                },
+                {
+                    "referencia": "Abraão 3:22–23",
+                    "palavra-chave": "Como seres espirituais, fomos '[organizados] antes de o mundo existir.'",
+                    "escritura": "22 Ora, o Senhor mostrara a mim, Abraão, as inteligências que foram organizadas antes de o mundo existir; e entre todas essas havia muitas das nobres e grandes; 23 E Deus viu que essas almas eram boas; e ele estava no meio delas e disse: A estes farei meus governantes; pois ele se encontrava entre aqueles que eram espíritos, e viu que eles eram bons; e disse-me: Abraão, tu és um deles; foste escolhido antes de nasceres."
+                },
+                {
+                    "referencia": "Gênesis 1:26–27",
+                    "palavra-chave": "Criou Deus o homem à sua imagem.",
+                    "escritura": "26 E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre o gado, e sobre toda a terra, e sobre todo réptil que se move sobre a terra. 27 E criou Deus o homem à sua imagem, à imagem de Deus o criou, macho e fêmea os criou."
+                },
+                {
+                    "referencia": "Gênesis 2:24",
+                    "palavra-chave": "O homem (…) apegar-se-á à sua mulher, e serão ambos uma carne.",
+                    "escritura": "24 Portanto, deixará o homem o seu pai e a sua mãe, e apegar-se-á à sua mulher, e serão ambos uma carne."
+                },
+                {
+                    "referencia": "Gênesis 39:9",
+                    "palavra-chave": "Como, pois, faria eu este tamanho mal, e pecaria contra Deus?",
+                    "escritura": "9 Ninguém há maior do que eu nesta casa, e nenhuma coisa me vedou, senão a ti, porquanto tu és sua mulher; como, pois, faria eu este tamanho mal, e pecaria contra Deus?"
+                },
+                {
+                    "referencia": "Êxodo 20:3–17",
+                    "palavra-chave": "Os Dez Mandamentos",
+                    "escritura": "3 Não terás outros deuses diante de mim. 4 Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima nos céus, nem embaixo na terra, nem nas águas debaixo da terra. 5 Não te encurvarás a elas nem as servirás, porque eu, o Senhor teu Deus, sou Deus zeloso, que visito a maldade dos pais nos filhos, até a terceira e quarta geração daqueles que me odeiam, 6 E faço misericórdia a milhares, aos que me amam, e aos que guardam os meus mandamentos. 7 Não tomarás o nome do Senhor teu Deus em vão, porque o Senhor não terá por inocente o que tomar o seu nome em vão. 8 Lembra-te do dia do sábado, para o santificar. 9 Seis dias trabalharás, e farás toda a tua obra, 10 Mas o sétimo dia é o sábado do Senhor teu Deus; não farás nenhuma obra, nem tu, nem teu filho, nem tua filha, nem o teu servo, nem a tua serva, nem o teu animal, nem o teu estrangeiro, que está dentro das tuas portas. 11 Porque em seis dias fez o Senhor os céus e a terra, o mar e tudo que neles há, e ao sétimo dia descansou; portanto, abençoou o Senhor o dia do sábado, e o santificou. 12 Honra teu pai e tua mãe, para que os teus dias se prolonguem na terra que o Senhor teu Deus te dá. 13 Não matarás. 14 Não adulterarás. 15 Não furtarás. 16 Não dirás falso testemunho contra o teu próximo. 17 Não cobiçarás a casa do teu próximo, não cobiçarás a mulher do teu próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma do teu próximo."
+                },
+                {
+                    "referencia": "Josué 24:15",
+                    "palavra-chave": "Escolhei hoje a quem sirvais",
+                    "escritura": "15 Porém, se vos parece mal aos vossos olhos servir ao Senhor, escolhei hoje a quem sirvais: se os deuses a quem serviram vossos pais, que estavam além do rio, ou os deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao Senhor."
+                },
+                {
+                    "referencia": "Salmos 24:3–4",
+                    "palavra-chave": "Quem estará no seu lugar santo? Aquele que é limpo de mãos e puro de coração.",
+                    "escritura": "3 Quem subirá ao monte do Senhor, ou quem estará no seu lugar santo? 4 Aquele que é limpo de mãos e puro de coração, que não entrega a sua alma à vaidade, nem jura enganosamente."
+                },
+                {
+                    "referencia": "Provérbios 3:5–6",
+                    "palavra-chave": "Confia no Senhor de todo o teu coração (…) e ele endireitará as tuas veredas.",
+                    "escritura": "5 Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. 6 Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+                },
+                {
+                    "referencia": "Isaías 1:18",
+                    "palavra-chave": "Ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve.",
+                    "escritura": "18 Vinde agora, e argui-me, diz o Senhor; ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã."
+                },
+                {
+                    "referencia": "Isaías 5:20",
+                    "palavra-chave": "Ai dos que ao mal chamam bem, e ao bem, mal.",
+                    "escritura": "20 Ai dos que ao mal chamam bem, e ao bem, mal; que fazem das trevas luz, e da luz, trevas; e fazem do amargo doce, e do doce, amargo!"
+                },
+                {
+                    "referencia": "Isaías 29:13–14",
+                    "palavra-chave": "A Restauração do evangelho é uma obra maravilhosa e um assombro",
+                    "escritura": "13 Porque o Senhor disse: Pois que este povo se aproxima de mim com a sua boca, e com os seus lábios me honra, porém o seu coração se afasta para longe de mim, e o seu temor para comigo consiste só em mandamentos de homens, em que foi instruído; 14 Portanto, eis que continuarei a fazer uma obra maravilhosa no meio deste povo, uma obra maravilhosa e um assombro, porque a sabedoria dos seus sábios perecerá, e o entendimento dos seus prudentes se esconderá."
+                },
+                {
+                    "referencia": "Isaías 53:3–5",
+                    "palavra-chave": "“Verdadeiramente [Jesus Cristo] tomou sobre si as nossas enfermidades”.",
+                    "escritura": "3 Era desprezado, e o mais rejeitado entre os homens, homem de dores, e experimentado em padecimentos; e como um de quem os homens escondiam o rosto era desprezado, e não fizemos caso algum dele. 4 Verdadeiramente ele tomou sobre si as nossas enfermidades, e as nossas dores levou sobre si; e nós o reputávamos por aflito, ferido de Deus, e oprimido. 5 Porém ele foi ferido pelas nossas transgressões, e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados."
+                },
+                {
+                    "referencia": "Isaías 58:6–7",
+                    "palavra-chave": "As bênçãos do jejum adequado",
+                    "escritura": "6 Porventura não é este o jejum que escolhi: que soltes as ligaduras da impiedade, que desfaças as cordas do jugo, e que deixes livres os quebrantados, e despedaces todo o jugo? 7 Porventura não é também que repartas o teu pão com o faminto, e recolhas em casa os pobres desterrados, e vendo o nu, o cubras, e não te escondas da tua carne?"
+                },
+                {
+                    "referencia": "Isaías 58:13–14",
+                    "palavra-chave": "“[Desvies] (…) de fazeres a tua vontade no meu santo dia, e [chames] ao sábado deleitoso”.",
+                    "escritura": "13 Se desviares o teu pé do sábado, de fazeres a tua vontade no meu santo dia, e chamares ao sábado deleitoso, e o santo dia do Senhor, digno de honra, e o honrares não seguindo os teus caminhos, nem pretendendo fazer a tua própria vontade, nem falares as tuas próprias palavras, 14 Então te deleitarás no Senhor, e te farei cavalgar sobre as alturas da terra, e te sustentarei com a herança de teu pai Jacó; porque a boca do Senhor o falou."
+                },
+                {
+                    "referencia": "Jeremias 1:4–5",
+                    "palavra-chave": "“Antes que te formasse no ventre, (…) às nações te dei por profeta”.",
+                    "escritura": "4 Assim veio a mim a palavra do Senhor, dizendo: 5 Antes que te formasse no ventre, te conheci, e antes que saísses da madre, te santifiquei, e às nações te dei por profeta."
+                },
+                {
+                    "referencia": "Ezequiel 3:16–17",
+                    "palavra-chave": "O profeta é um “atalaia sobre a casa de Israel”.",
+                    "escritura": "16 E sucedeu que, ao fim de sete dias, veio a palavra do Senhor a mim, dizendo: 17 Filho do homem, eu te dei por atalaia sobre a casa de Israel; e tu da minha boca ouvirás a palavra, e os avisarás da minha parte."
+                },
+                {
+                    "referencia": "Ezequiel 37:15–17",
+                    "palavra-chave": "A Bíblia e o Livro de Mórmon “serão [um] só na tua mão”.",
+                    "escritura": "15 E veio a mim a palavra do Senhor, dizendo: 16 Tu, pois, ó filho do homem, toma um pedaço de madeira, e escreve nele: Por Judá e aos filhos de Israel, seus companheiros. E toma outro pedaço de madeira, e escreve nele: Por José, a vara de Efraim, e de toda a casa de Israel, seus companheiros. 17 E ajunta um ao outro, para que sejam uma vara; e serão uma só na tua mão."
+                },
+                {
+                    "referencia": "Daniel 2:44–45",
+                    "palavra-chave": "Deus “levantará um reino que não será jamais destruído”.",
+                    "escritura": "44 Mas nos dias desses reis, o Deus do céu levantará um reino que não será jamais destruído; e esse reino não será deixado a outro povo; esmiuçará e consumirá todos esses reinos, mas ele mesmo estará estabelecido para sempre. 45 Da maneira que viste que do monte foi cortada uma pedra, sem mãos, e ela esmiuçou o ferro, o bronze, o barro, a prata e o ouro, o Deus grande fez saber ao rei o que há de ser depois disso; e certo é o sonho, e fiel a sua interpretação."
+                },
+                {
+                    "referencia": "Amós 3:7",
+                    "palavra-chave": "“O Senhor Deus (…) [revela] o seu segredo aos seus servos, os profetas”.",
+                    "escritura": "7 Certamente o Senhor Deus não fará coisa alguma, sem ter revelado o seu segredo aos seus servos, os profetas."
+                },
+                {
+                    "referencia": "Malaquias 3:8–10",
+                    "palavra-chave": "As bênçãos de se pagar o dízimo",
+                    "escritura": "8 Roubará o homem a Deus? Porque vós me roubais, e dizeis: Em que te roubamos? Nos dízimos e nas ofertas. 9 Com maldição sois amaldiçoados, porque me roubais a mim, sim, toda a nação. 10 Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e provai-me nisto, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu, e não derramar sobre vós uma bênção tal, até que não haja mais lugar para a recolherdes."
+                },
+                {
+                    "referencia": "Malaquias 4:5–6",
+                    "palavra-chave": "Elias “converterá (…) o coração dos filhos a seus pais”.",
+                    "escritura": "5 Eis que eu vos envio o profeta Elias, antes que venha o grande e terrível dia do Senhor; 6 E ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais; para que eu não venha, e fira a terra com maldição."
+                }
             ]
         },
         {
             "nome": "Livro de Mórmon",
             "dominio_doutrinario": [
-            {
-                "referencia": "1 Néfi 3:7",
-                "palavra_chave": "Eu irei e cumprirei as ordens do Senhor",
-                "escritura": "7 E aconteceu que eu, Néfi, disse a meu pai: Eu irei e cumprirei as ordens do Senhor, porque sei que o Senhor nunca dá ordens aos filhos dos homens sem antes preparar um caminho pelo qual suas ordens possam ser cumpridas."
-            },
-            {
-                "referencia": "2 Néfi 2:25",
-                "palavra_chave": "Adão caiu para que os homens existissem; e os homens existem para que tenham alegria",
-                "escritura": "25 Adão caiu para que os homens existissem; e os homens existem para que tenham alegria."
-            }
+                {
+                    "referencia": "1 Néfi 3:7",
+                    "palavra_chave": "Eu irei e cumprirei as ordens do Senhor",
+                    "escritura": "7 E aconteceu que eu, Néfi, disse a meu pai: Eu irei e cumprirei as ordens do Senhor, porque sei que o Senhor nunca dá ordens aos filhos dos homens sem antes preparar um caminho pelo qual suas ordens possam ser cumpridas."
+                },
+                {
+                    "referencia": "2 Néfi 2:27",
+                    "palavra_chave": "“São livres para escolher a liberdade e a vida eterna (…) ou (…) o cativeiro e a morte”.",
+                    "escritura": "27 Portanto, os homens são livres segundo a carne; e todas as coisas de que necessitam lhes são dadas. E são livres para escolher a liberdade e a vida eterna por meio do grande Mediador de todos os homens, ou para escolherem o cativeiro e a morte, de acordo com o cativeiro e o poder do diabo; pois ele procura tornar todos os homens tão miseráveis como ele próprio."
+                },
+                {
+                    "referencia": "2 Néfi 26:33",
+                    "palavra_chave": "“Todos são iguais perante Deus”.",
+                    "escritura": "33 Pois nenhuma destas iniquidades vem do Senhor, porque ele faz o que é bom para os filhos dos homens; e não faz coisa alguma que não seja clara para os filhos dos homens; e convida todos a virem a ele e a participarem de sua bondade; e não repudia quem quer que o procure, negro e branco, escravo e livre, homem e mulher; e lembra-se dos pagãos; e todos são iguais perante Deus, tanto judeus como gentios."
+                },
+                {
+                    "referencia": "2 Néfi 28:30",
+                    "palavra_chave": "Deus “[dará] aos filhos dos homens linha sobre linha, preceito sobre preceito”.",
+                    "escritura": "30 Pois eis que assim diz o Senhor Deus: Darei aos filhos dos homens linha sobre linha, preceito sobre preceito, um pouco aqui e um pouco ali; e abençoados os que dão ouvidos aos meus preceitos e escutam os meus conselhos, porque obterão sabedoria; pois a quem recebe darei mais; e dos que disserem: Temos o suficiente, destes será tirado até mesmo o que tiverem."
+                },
+                {
+                    "referencia": "2 Néfi 32:3",
+                    "palavra_chave": "“Banqueteai-vos com as palavras de Cristo; pois eis que as palavras de Cristo vos dirão todas as coisas que deveis fazer”.",
+                    "escritura": "3 Os anjos falam pelo poder do Espírito Santo; falam, portanto, as palavras de Cristo. Por isto eu vos disse: Banqueteai-vos com as palavras de Cristo; pois eis que as palavras de Cristo vos dirão todas as coisas que deveis fazer."
+                },
+                {
+                    "referencia": "2 Néfi 32:8–9",
+                    "palavra_chave": "“Deveis orar sempre”.",
+                    "escritura": "8 E agora, meus amados irmãos, percebo que ainda meditais em vosso coração; e é-me doloroso falar-vos sobre isso. Porque, se désseis ouvidos ao Espírito que ensina o homem a orar, saberíeis que deveis orar; porque o espírito mau não ensina o homem a orar, mas ensina-lhe que não deve orar. 9 Mas eis que vos digo que deveis orar sempre e não desfalecer; e nada deveis fazer para o Senhor sem antes orar ao Pai, em nome de Cristo, para que ele consagre para vós a vossa ação, a fim de que a vossa ação seja para o bem-estar de vossa alma."
+                },
+                {
+                    "referencia": "Mosias 2:17",
+                    "palavra_chave": "“Quando estais a serviço de vosso próximo, estais somente a serviço de vosso Deus”.",
+                    "escritura": "17 E eis que vos digo estas coisas para que aprendais sabedoria; para que saibais que, quando estais a serviço de vosso próximo, estais somente a serviço de vosso Deus."
+                },
+                {
+                    "referencia": "Mosias 2:41",
+                    "palavra_chave": "“[Aqueles] que guardam os mandamentos de Deus (…) são abençoados em todas as coisas”.",
+                    "escritura": "41 E ainda mais, quisera que considerásseis o estado abençoado e feliz daqueles que guardam os mandamentos de Deus. Pois eis que são abençoados em todas as coisas, tanto materiais como espirituais; e se eles se conservarem fiéis até o fim, serão recebidos no céu, para que assim possam habitar com Deus em um estado de felicidade sem fim. Oh! Lembrai-vos, lembrai-vos de que estas coisas são verdadeiras, porque o Senhor Deus as disse."
+                },
+                {
+                    "referencia": "Mosias 3:19",
+                    "palavra_chave": "“Despoje-se do homem natural e torne-se santo pela expiação de Cristo”.",
+                    "escritura": "19 Porque o homem natural é inimigo de Deus e tem-no sido desde a queda de Adão e sê-lo-á para sempre; a não ser que ceda ao influxo do Santo Espírito e despoje-se do homem natural e torne-se santo pela expiação de Cristo, o Senhor; e torne-se como uma criança, submisso, manso, humilde, paciente, cheio de amor, disposto a submeter-se a tudo quanto o Senhor achar que lhe deva infligir, assim como uma criança se submete a seu pai."
+                },
+                {
+                    "referencia": "Mosias 4:9",
+                    "palavra_chave": "“Acreditai em Deus; (…) acreditai que ele tem toda a sabedoria”.",
+                    "escritura": "9 Acreditai em Deus; acreditai que ele existe e que criou todas as coisas, tanto no céu como na Terra; acreditai que ele tem toda a sabedoria e todo o poder, tanto no céu como na Terra; acreditai que o homem não compreende todas as coisas que o Senhor pode compreender."
+                },
+                {
+                    "referencia": "Mosias 18:8–10",
+                    "palavra_chave": "Sede “batizados em nome do Senhor, como um testemunho (…) de que haveis feito convênio com ele”.",
+                    "escritura": "8 E aconteceu que ele lhes disse: Eis aqui as águas de Mórmon (pois assim eram chamadas); e agora, sendo que desejais entrar no rebanho de Deus e ser chamados seu povo; e sendo que estais dispostos a carregar os fardos uns dos outros, para que fiquem leves; 9 Sim, e estais dispostos a chorar com os que choram; sim, e consolar os que necessitam de consolo e servir de testemunhas de Deus em todos os momentos e em todas as coisas e em todos os lugares em que vos encontreis, mesmo até a morte; para que sejais redimidos por Deus e contados com os da primeira ressurreição, para que tenhais a vida eterna — 10 Agora vos digo que, se for esse o desejo de vosso coração, o que vos impede de serdes batizados em nome do Senhor, como um testemunho, perante ele, de que haveis feito convênio com ele de servi-lo e guardar seus mandamentos, para que ele possa derramar seu Espírito com mais abundância sobre vós?"
+                },
+                {
+                    "referencia": "Alma 7:11–13",
+                    "palavra_chave": "“E ele seguirá, sofrendo dores e aflições e tentações de toda espécie”.",
+                    "escritura": "11 E ele seguirá, sofrendo dores e aflições e tentações de toda espécie; e isto para que se cumpra a palavra que diz que ele tomará sobre si as dores e as enfermidades de seu povo. 12 E tomará sobre si a morte, para soltar as ligaduras da morte que prendem o seu povo; e tomará sobre si as suas enfermidades, para que se lhe encham de misericórdia as entranhas, segundo a carne, para que saiba, segundo a carne, como socorrer seu povo, de acordo com suas enfermidades. 13 Ora, o Espírito sabe todas as coisas; não obstante, o Filho de Deus padece segundo a carne para tomar sobre si os pecados de seu povo, para apagar-lhes as transgressões, de acordo com seu poder de libertação; e eis que agora esse é o testemunho que está em mim."
+                },
+                {
+                    "referencia": "Alma 34:9–10",
+                    "palavra_chave": "“Deverá haver uma expiação; (…) um sacrifício infinito e eterno”.",
+                    "escritura": "9 Pois é necessário que haja uma expiação; porque, de acordo com o grande plano do Deus Eterno, deverá haver uma expiação; do contrário, toda a humanidade inevitavelmente perecerá; sim, todos são obstinados; sim, todos estão decaídos e perdidos e hão de perecer, a não ser que seja pela expiação que deve haver. 10 Porque é necessário que haja um grande e último sacrifício; sim, não um sacrifício de homem nem de animal nem de qualquer tipo de ave; pois não será um sacrifício humano; deverá, porém, ser um sacrifício infinito e eterno."
+                },
+                {
+                    "referencia": "Alma 39:9",
+                    "palavra_chave": "“Não mais [sucumbas] à concupiscência dos teus olhos”.",
+                    "escritura": "9 Agora, meu filho, eu quisera que te arrependesses e abandonasses teus pecados e que não mais sucumbisses à concupiscência dos teus olhos; e que abandonasses todas essas coisas, pois, a não ser que assim procedas, de nenhum modo herdarás o reino de Deus. Oh! Lembra-te e decide-te a abandonar essas coisas!"
+                },
+                {
+                    "referencia": "Alma 41:10",
+                    "palavra_chave": "“Iniquidade nunca foi felicidade”.",
+                    "escritura": "10 Não penses que por ter sido falado acerca de restauração, serás restituído do pecado para a felicidade. Eis que te digo que iniquidade nunca foi felicidade."
+                },
+                {
+                    "referencia": "Helamã 5:12",
+                    "palavra_chave": "“É sobre a rocha de nosso Redentor (…) que deveis construir os vossos alicerces”.",
+                    "escritura": "12 E agora, meus filhos, lembrai-vos, lembrai-vos de que é sobre a rocha de nosso Redentor, que é Cristo, o Filho de Deus, que deveis construir os vossos alicerces; para que, quando o diabo lançar a fúria de seus ventos, sim, seus dardos no torvelinho, sim, quando todo o seu granizo e violenta tempestade vos açoitarem, isso não tenha poder para vos arrastar ao abismo da miséria e angústia sem fim, por causa da rocha sobre a qual estais edificados, que é um alicerce seguro; e se os homens edificarem sobre esse alicerce, não cairão."
+                },
+                {
+                    "referencia": "3 Néfi 11:10–11",
+                    "palavra_chave": "“[Eu] me submeti à vontade do Pai em todas as coisas desde o princípio”.",
+                    "escritura": "10 Eis que eu sou Jesus Cristo, cuja vinda ao mundo foi testificada pelos profetas. 11 E eis que eu sou a luz e a vida do mundo; e bebi da taça amarga que o Pai me deu e glorifiquei o Pai, tomando sobre mim os pecados do mundo, no que me submeti à vontade do Pai em todas as coisas desde o princípio."
+                },
+                {
+                    "referencia": "3 Néfi 12:48",
+                    "palavra_chave": "“Quisera que fôsseis perfeitos, assim como eu ou como o vosso Pai que está nos céus é perfeito”.",
+                    "escritura": "48 Portanto, quisera que fôsseis perfeitos, assim como eu ou como o vosso Pai que está nos céus é perfeito."
+                },
+                {
+                    "referencia": "3 Néfi 27:20",
+                    "palavra_chave": "“Vinde a mim e sede batizados (…) a fim de que sejais santificados, recebendo o Espírito Santo”.",
+                    "escritura": "20 Ora, este é o mandamento: Arrependei-vos todos vós, confins da Terra; vinde a mim e sede batizados em meu nome, a fim de que sejais santificados, recebendo o Espírito Santo, para comparecerdes sem mancha perante mim no último dia."
+                },
+                {
+                    "referencia": "Éter 12:6",
+                    "palavra_chave": "“Não recebeis testemunho senão depois da prova de vossa fé”.",
+                    "escritura": "6 E agora eu, Morôni, quisera falar algo a respeito dessas coisas. Quisera mostrar ao mundo que fé são coisas que se esperam, mas não se veem; portanto, não disputeis porque não vedes, porque não recebeis testemunho senão depois da prova de vossa fé."
+                },
+                {
+                    "referencia": "Éter 12:27",
+                    "palavra_chave": "“Se os homens vierem a mim, (…) então farei com que as coisas fracas se tornem fortes para eles”.",
+                    "escritura": "27 E se os homens vierem a mim, mostrar-lhes-ei sua fraqueza. E dou a fraqueza aos homens a fim de que sejam humildes; e minha graça basta a todos os que se humilham perante mim; porque caso se humilhem perante mim e tenham fé em mim, então farei com que as coisas fracas se tornem fortes para eles."
+                },
+                {
+                    "referencia": "Morôni 7:45–48",
+                    "palavra_chave": "“A caridade é o puro amor de Cristo”.",
+                    "escritura": "45 E a caridade é sofredora e é benigna e não é invejosa e não se ensoberbece; não busca seus interesses, não se irrita facilmente, não suspeita mal e não se regozija com a iniquidade, mas regozija-se com a verdade; tudo sofre, tudo crê, tudo espera, tudo suporta. 46 De modo que, meus amados irmãos, se não tendes caridade, nada sois, porque a caridade nunca falha. Portanto, apegai-vos à caridade, que é, de todas, a maior, porque todas as coisas hão de falhar — 47 Mas a caridade é o puro amor de Cristo e permanece para sempre; e para todos os que a possuírem, no último dia tudo estará bem. 48 Portanto, meus amados irmãos, rogai ao Pai, com toda a energia de vosso coração, que sejais cheios desse amor que ele concedeu a todos os que são verdadeiros seguidores de seu Filho, Jesus Cristo; que vos torneis os filhos de Deus; que quando ele aparecer, sejamos como ele, porque o veremos como ele é; que tenhamos esta esperança; que sejamos purificados, como ele é puro. Amém."
+                },
+                {
+                    "referencia": "Morôni 10:4–5",
+                    "palavra_chave": "“[Perguntai] com um coração sincero e com real intenção, tendo fé em Cristo, (…) [e] pelo poder do Espírito Santo podeis saber a verdade de todas as coisas”.",
+                    "escritura": "4 E quando receberdes estas coisas, eu vos exorto a perguntardes a Deus, o Pai Eterno, em nome de Cristo, se estas coisas não são verdadeiras; e se perguntardes com um coração sincero e com real intenção, tendo fé em Cristo, ele vos manifestará a verdade delas pelo poder do Espírito Santo. 5 E pelo poder do Espírito Santo podeis saber a verdade de todas as coisas."
+                }
             ]
         },
         {
             "nome": "Doutrina e Convênios",
             "dominio_doutrinario": [
-            {
-                "referencia": "Joseph Smith — História 1:15-20",
-                "palavra_chave": "Joseph Smith 'viu dois personagens cujo resplendor e glória desafiam qualquer descrição'",
-                "escritura": "15 Depois de me haver retirado para o lugar que previamente escolhera, tendo olhado ao redor e encontrando-me só, ajoelhei-me e comecei a oferecer a Deus os desejos de meu coração. Apenas iniciara, imediatamente se apoderou de mim uma força que me dominou por completo; e tão assombrosa foi sua influência que se me travou a língua, de modo que eu não podia falar. Uma densa escuridão formou-se ao meu redor e pareceu-me, por um momento, que eu estava condenado a uma destruição súbita. 16 Mas usando todas as forças para clamar a Deus que me livrasse do poder desse inimigo que me subjugara, no momento exato em que estava prestes a sucumbir ao desespero e abandonar-me à destruição — não a uma ruína imaginária, mas ao poder de algum ser real do mundo invisível, que possuía uma força tão assombrosa como eu jamais sentira em qualquer ser — exatamente nesse momento de grande alarme, vi um pilar de luz acima de minha cabeça, mais brilhante que o sol, que descia gradualmente sobre mim. 17 Assim que apareceu, senti-me livre do inimigo que me sujeitava. Quando a luz pousou sobre mim, vi dois Personagens cujo esplendor e glória desafiam qualquer descrição, pairando no ar, acima de mim. Um deles falou-me, chamando-me pelo nome, e disse, apontando para o outro: Este é Meu Filho Amado. Ouve-O! 18 Meu objetivo ao dirigir-me ao Senhor era saber qual de todas as seitas estava certa, a fim de saber a qual me unir. Portanto, tão logo me controlei o suficiente para poder falar, perguntei aos Personagens que estavam na luz acima de mim qual de todas as seitas estava certa (pois até aquele momento jamais me ocorrera que todas estivessem erradas) e a qual me unir. 19 Foi-me respondido que não me unisse a qualquer delas, pois estavam todas erradas; e o Personagem que se dirigia a mim disse que todos os seus credos eram uma abominação a sua vista; que aqueles religiosos eram todos corruptos; que “eles se aproximam de mim com os lábios, mas seu coração está longe de mim; ensinam como doutrina os mandamentos de homens, tendo aparência de religiosidade, mas negam o seu poder.” 20 Novamente me proibiu de unir-me a qualquer delas; e muitas outras coisas disse-me, as quais não posso, no momento, escrever. Quando tornei a voltar a mim, estava deitado de costas, olhando para o céu. Quando a luz se retirou, eu estava sem forças; mas tendo logo me recuperado em parte, fui para casa. Ao apoiar-me na lareira, minha mãe perguntou-me o que se passava. Respondi: “Não se preocupe, tudo está bem — eu estou bem.” Então disse a ela: “Aprendi por mim mesmo que o presbiterianismo não é verdadeiro.” Parece que o adversário sabia, nos primeiros anos de minha vida, que eu estava destinado a ser um perturbador e um importunador de seu reino; senão, por que os poderes das trevas se uniriam contra mim? Por que a oposição e a perseguição que se levantaram contra mim, quase em minha infância?"
-            },
-            {
-                "referencia": "D&C 1:30",
-                "palavra_chave": "A única igreja verdadeira e viva",
-                "escritura": "30 E também para que aqueles a quem foram dados estes mandamentos tivessem poder para estabelecer o alicerce desta igreja e tirá-la da obscuridade e das trevas, a única igreja verdadeira e viva na face de toda a Terra, com a qual eu, o Senhor, me deleito, falando à igreja coletiva e não individualmente"
-            }
+                {
+                    "referencia": "Joseph Smith — História 1:15-20",
+                    "palavra_chave": "Joseph Smith 'viu dois personagens cujo resplendor e glória desafiam qualquer descrição'",
+                    "escritura": "15 Depois de me haver retirado para o lugar que previamente escolhera, tendo olhado ao redor e encontrando-me só, ajoelhei-me e comecei a oferecer a Deus os desejos de meu coração. Apenas iniciara, imediatamente se apoderou de mim uma força que me dominou por completo; e tão assombrosa foi sua influência que se me travou a língua, de modo que eu não podia falar. Uma densa escuridão formou-se ao meu redor e pareceu-me, por um momento, que eu estava condenado a uma destruição súbita. 16 Mas usando todas as forças para clamar a Deus que me livrasse do poder desse inimigo que me subjugara, no momento exato em que estava prestes a sucumbir ao desespero e abandonar-me à destruição — não a uma ruína imaginária, mas ao poder de algum ser real do mundo invisível, que possuía uma força tão assombrosa como eu jamais sentira em qualquer ser — exatamente nesse momento de grande alarme, vi um pilar de luz acima de minha cabeça, mais brilhante que o sol, que descia gradualmente sobre mim. 17 Assim que apareceu, senti-me livre do inimigo que me sujeitava. Quando a luz pousou sobre mim, vi dois Personagens cujo esplendor e glória desafiam qualquer descrição, pairando no ar, acima de mim. Um deles falou-me, chamando-me pelo nome, e disse, apontando para o outro: Este é Meu Filho Amado. Ouve-O! 18 Meu objetivo ao dirigir-me ao Senhor era saber qual de todas as seitas estava certa, a fim de saber a qual me unir. Portanto, tão logo me controlei o suficiente para poder falar, perguntei aos Personagens que estavam na luz acima de mim qual de todas as seitas estava certa (pois até aquele momento jamais me ocorrera que todas estivessem erradas) e a qual me unir. 19 Foi-me respondido que não me unisse a qualquer delas, pois estavam todas erradas; e o Personagem que se dirigia a mim disse que todos os seus credos eram uma abominação a sua vista; que aqueles religiosos eram todos corruptos; que “eles se aproximam de mim com os lábios, mas seu coração está longe de mim; ensinam como doutrina os mandamentos de homens, tendo aparência de religiosidade, mas negam o seu poder.” 20 Novamente me proibiu de unir-me a qualquer delas; e muitas outras coisas disse-me, as quais não posso, no momento, escrever. Quando tornei a voltar a mim, estava deitado de costas, olhando para o céu. Quando a luz se retirou, eu estava sem forças; mas tendo logo me recuperado em parte, fui para casa. Ao apoiar-me na lareira, minha mãe perguntou-me o que se passava. Respondi: “Não se preocupe, tudo está bem — eu estou bem.” Então disse a ela: “Aprendi por mim mesmo que o presbiterianismo não é verdadeiro.” Parece que o adversário sabia, nos primeiros anos de minha vida, que eu estava destinado a ser um perturbador e um importunador de seu reino; senão, por que os poderes das trevas se uniriam contra mim? Por que a oposição e a perseguição que se levantaram contra mim, quase em minha infância?"
+                },
+                {
+                    "referencia": "D&C 1:30",
+                    "palavra_chave": "A única igreja verdadeira e viva",
+                    "escritura": "30 E também para que aqueles a quem foram dados estes mandamentos tivessem poder para estabelecer o alicerce desta igreja e tirá-la da obscuridade e das trevas, a única igreja verdadeira e viva na face de toda a Terra, com a qual eu, o Senhor, me deleito, falando à igreja coletiva e não individualmente"
+                },
+                {
+                    "referencia": "D&C 1:37–38",
+                    "palavra_chave": "“Seja pela minha própria voz ou pela voz de meus servos, é o mesmo”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 6:36",
+                    "palavra_chave": "“Buscai-me em cada pensamento; não duvideis, não temais”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 8:2–3",
+                    "palavra_chave": "“Eu te falarei em tua mente e em teu coração, pelo Espírito Santo”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 13:1",
+                    "palavra_chave": "O Sacerdócio Aarônico “possui as chaves do ministério de anjos e do evangelho do arrependimento e do batismo”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 18:10–11",
+                    "palavra_chave": "“O valor das almas é grande à vista de Deus”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 18:15–16",
+                    "palavra_chave": "“Quão grande será vossa alegria se me trouxerdes muitas almas!”",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 19:16–19",
+                    "palavra_chave": "“Eu, [Jesus Cristo], sofri essas coisas por todos”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 21:4–6",
+                    "palavra_chave": "As palavras dos profetas, “recebereis como de minha própria boca”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 29:10–11",
+                    "palavra_chave": "“Revelar-me-ei do céu com poder e grande glória (…) e em retidão habitarei com os homens na Terra por mil anos”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 49:15–17",
+                    "palavra_chave": "“O casamento foi instituído por Deus”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 58:42–43",
+                    "palavra_chave": "“Aquele que se arrependeu de seus pecados é perdoado”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 64:9–11",
+                    "palavra_chave": "“Mas de vós é exigido que perdoeis a todos os homens”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 76:22–24",
+                    "palavra_chave": "“Por meio [de Jesus Cristo] os mundos são e foram criados”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 82:10",
+                    "palavra_chave": "“E eu, o Senhor, estou obrigado quando fazeis o que eu digo”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 84:20–22",
+                    "palavra_chave": "“Em suas ordenanças manifesta-se o poder da divindade”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 88:118",
+                    "palavra_chave": "“Procurai conhecimento, sim, pelo estudo e também pela fé”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 89:18–21",
+                    "palavra_chave": "As bênçãos da Palavra de Sabedoria",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 107:8",
+                    "palavra_chave": "“O Sacerdócio de Melquisedeque (…) tem poder e autoridade (…) para administrar em assuntos espirituais”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 121:36, 41–42",
+                    "palavra_chave": "“Os direitos do sacerdócio (…) não podem ser controlados nem exercidos a não ser de acordo com os princípios da retidão”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 130:22–23",
+                    "palavra_chave": "“O Pai tem um corpo de carne e ossos (…); o Filho também; mas o Espírito Santo (…) é um personagem de Espírito”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 131:1–4",
+                    "palavra_chave": "“O novo e eterno convênio do casamento”.",
+                    "escritura": ""
+                },
+                {
+                    "referencia": "D&C 135:3",
+                    "palavra_chave": "Joseph Smith “trouxe à luz o Livro de Mórmon, que traduziu pelo dom e poder de Deus”.",
+                    "escritura": ""
+                }
             ]
         }
     ]
-}  
+}
